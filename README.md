@@ -15,11 +15,11 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 ## About Me
-⦿- Athlete 🏀🏈🥊
-⦿- Family Man 🧑‍🧑‍🧒‍🧒
-⦿- Deep Thinker 🤔
-⦿- Passionate about personal growth and reformation of the heart 🤍
-⦿- Love Knowledge 📚
+<p>⦿- Athlete 🏀🏈🥊 </p>
+<p>⦿- Family Man 🧑‍🧑‍🧒‍🧒</p>
+<p>⦿- Deep Thinker 🤔</p>
+<p>⦿- Passionate about personal growth and reformation of the heart 🤍</p>
+<p>⦿- Love Knowledge 📚</p>
 
 <h2>📫 Reach me on</h2>
   <a target="_blank"href="https://www.linkedin.com/in/marlon-colato-b94956265/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
