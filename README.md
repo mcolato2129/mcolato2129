@@ -1,6 +1,6 @@
 <h1>Hi there I am Malron👋.</h1>
 
-<p>I'm an aspiring software developer with a passion for continuous learning and technology. Recently, I graduated from an intensive coding boot camp where I gained hands-on experience with modern technologies and frameworks. My projects are open for anyone to see! Here's a bit more about me and my technologies ive used so far.</p>
+<p>I'm an aspiring software developer with a passion for continuous learning and technology. Recently, I graduated from an intensive coding boot camp where I gained hands-on experience with modern technologies and frameworks. My projects are open for anyone to see! Here's a bit more about me and my technologies i've used so far.</p>
 
 ## ⚡ Technologies
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
