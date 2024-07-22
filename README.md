@@ -1,4 +1,4 @@
-<h1>Hi there I am Malron👋. Im an Asprining Full-Stack Software Engineer! </h1>
+<h1>Hi there I am Malron👋. Im an Aspiring Full-Stack Software Engineer! </h1>
 
 
 ## ⚡ Technologies
